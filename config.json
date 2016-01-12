@@ -1,0 +1,5 @@
+{
+    "fileMatch": "^(gif|png|jpg|js|css)$",
+    "maxAge": 31536000,
+    "compress": "^(html|js|css)$"
+}
